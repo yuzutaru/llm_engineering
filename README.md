@@ -23,7 +23,7 @@ https://www.linkedin.com/in/eddonner/
 And this is new to me, but I'm also trying out X/Twitter at [@edwarddonner](https://x.com/edwarddonner) - if you're on X, please show me how it's done 😂  
 
 Resources to accompany the course, including the slides and useful links, are here:  
-https://edwarddonner.com/2024/11/13/llm-engineering-resources/
+https://edwarddonner.com/2024/11/13/llm-engineering-resources/  
 
 And a useful FAQ with common questions is here:  
 https://edwarddonner.com/faq/
